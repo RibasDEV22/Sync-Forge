@@ -1,0 +1,24 @@
+{
+  "name": "com.ribasdev.syncforge",
+  "version": "1.0.0",
+  "displayName": "SyncForge - Real-Time Co-Editor",
+  "description": "Sistema avançado de colaboração em tempo real para criação de jogos na Unity, permitindo trabalho simultâneo na SceneView, perfis e sincronização de múltiplos desenvolvedores.",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/RibasDEV22/Sync-Forge",
+  "changelogUrl": "https://github.com/RibasDEV22/Sync-Forge/releases",
+  "dependencies": {},
+  "keywords": [
+    "syncforge",
+    "multiplayer",
+    "co-editor",
+    "collaboration",
+    "gamedev",
+    "unity2020",
+    "unity2022"
+  ],
+  "author": {
+    "name": "RibasDEV22",
+    "email": "",
+    "url": "https://github.com/RibasDEV22"
+  }
+}
